@@ -1,7 +1,15 @@
+/* Style codes for inheritance.html */
+
 h1 {
     color: rgb(162, 0, 255);
-    font-size: 18px;  
+    font-size: 28px;
+    background-color: blanchedalmond;  
 }
+
+ul {
+    color: blue;
+}
+
 
 .hope {
     color: chartreuse;
@@ -9,13 +17,52 @@ h1 {
     background-color: brown;
 }
 
+.core {
+    background-color: blue;
+    color: bisque;
+}
+
+.pac {
+    font-style: italic;
+}
+
+.two {
+    background-color: deeppink;
+}
+
+#one {
+    background-color: rgb(36, 36, 36);
+    color: pink;
+    font-style: normal;
+}
+
+#fig {
+    background-color: olive;
+}
+
+#m3 {
+    color: green;
+}
+
 #aqua {
     color: crimson;
     font-weight: bold;
+    background-color: rgb(128, 187, 247);
 }
 
-ul {
-    color: blue;
+#que {
+    background-color: aquamarine;
+}
+
+
+
+
+
+/* Style codes for index.html */
+
+h1 {
+    color: rgb(162, 0, 255);
+    font-size: 18px;  
 }
 
 .sect3 {
