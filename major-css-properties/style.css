@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(0, 81, 255);
+    font-size: 18px;  
+}
+
+.sect3 {
+    padding: 90px;
+    border: 90px solid black;
+    border-radius: 600px;
+    margin: 5px;
+}
+
+.sect2 {
+    padding: 90px;
+    border: 60px solid rgb(39, 39, 39);
+    border-radius: 400px;
+    margin: 20px;
+}
+
+.sect1 {
+    padding: 90px;
+    border: 30px solid rgb(97, 97, 97);
+    border-radius: 200px;
+    margin: 50px;
+}
+
+p {
+    color: green;
+    font-size: 14px;
+}
+
