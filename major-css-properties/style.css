@@ -1,6 +1,21 @@
 h1 {
-    color: rgb(0, 81, 255);
+    color: rgb(162, 0, 255);
     font-size: 18px;  
+}
+
+.hope {
+    color: chartreuse;
+    font-size: 45px;
+    background-color: brown;
+}
+
+#aqua {
+    color: crimson;
+    font-weight: bold;
+}
+
+ul {
+    color: blue;
 }
 
 .sect3 {
